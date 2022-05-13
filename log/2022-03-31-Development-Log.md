@@ -31,3 +31,6 @@
    - Update light direction
  - 2022-04-30: Alpha-0.1.2
    - Debug video checkbox for image and landmark
+ - 2022-05-13: Alpha-0.1.3
+   - Config separation
+   - Document branch separation

@@ -9,8 +9,9 @@ The open source project for Live3D Virtual Avatar.
 
  - Live Website: https://openlive3d.com/
  - Document:
-   - [Quick Start](https://github.com/OpenLive3D/OpenLive3D.github.io/tree/master/doc/quick-start.md)
-   - [Document List](https://github.com/OpenLive3D/OpenLive3D.github.io/tree/master/doc)
+   - [Quick Start](https://github.com/OpenLive3D/OpenLive3D.github.io/tree/document/doc/quick-start.md)
+   - [Document List](https://github.com/OpenLive3D/OpenLive3D.github.io/tree/document/doc)
+   - [Planning Log](https://github.com/OpenLive3D/OpenLive3D.github.io/tree/document/log)
 
 
 ## Project Features
