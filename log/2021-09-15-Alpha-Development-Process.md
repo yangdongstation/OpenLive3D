@@ -46,5 +46,5 @@ To be able to work for different users out of the box:
  - [x] Model Upload
  - [x] Layout for Eye / Mouth Open Threshold
  - [x] Layout for Head / Iris Rotate Ratio
- - [ ] Iris Target
+ - [x] Iris Target
  - [ ] Mood Selection

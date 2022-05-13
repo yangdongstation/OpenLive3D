@@ -5,6 +5,9 @@ The open source project for Live3D Virtual Avatar.
 <img src="asset/doc/screenshot.png" width="100%"/>
 
 
+# `NOTE: THIS IS DOCUMENT BRANCH`
+
+
 ## TRY NOW!
 
  - Live Website: https://openlive3d.com/
@@ -34,6 +37,6 @@ The project aims to connect the half-body movement with facial landmarks to the 
 
 ## Project Status
 
-Alpha-0.1.2:
- - Optimize UI/UX
- - Documentation initialization
+Alpha-0.1.3:
+ - Optimize UI/UX - Config Group
+ - Documentation Branch Separation
